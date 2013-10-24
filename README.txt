@@ -1,4 +1,4 @@
-для пошуку найщасливішого штату
+Для пошуку найщасливішого штату
 ./happiest_state AFINN-111.txt twitter-stream.txt 
 @return %state name%
 
